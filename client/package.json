@@ -1,0 +1,16 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "freeice": "^2.2.2",
+    "parcel": "1.12.3"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}
